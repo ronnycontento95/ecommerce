@@ -1,6 +1,6 @@
 import { Button } from "@mui/material";
 import { IoSearch } from "react-icons/io5";
-import "../search/styles.css";
+import "../search/search.css";
 
 const Search = () => {
   return (
