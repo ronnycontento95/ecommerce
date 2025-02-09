@@ -1,7 +1,10 @@
-E-commerce React + Vite
+
+https://www.youtube.com/watch?v=-APmpguNFqI&t=3451s
+
+## E-commerce React + Vite
 Este es un proyecto de e-commerce construido con React y Vite. El objetivo de este proyecto es proporcionar una base sólida para construir aplicaciones de comercio electrónico, además de servir como recurso educativo para aquellos que deseen aprender React.
 
-Características
+## Características
 React: Biblioteca de JavaScript para construir interfaces de usuario.
 
 Vite: Herramienta de construcción rápida para proyectos modernos.
@@ -12,11 +15,11 @@ React Icons: Biblioteca de iconos para React.
 
 Componentes Reutilizables: Diseño modular para facilitar la extensión y mantenimiento.
 
-Recursos Utilizados
-Tutoriales y Guías
+## Recursos Utilizados
+# Tutoriales y Guías
 Curso de React en YouTube: Serie de videos que me ayudaron a construir este proyecto.
 
-Herramientas de Desarrollo
+# Herramientas de Desarrollo
 Photopea: Editor de imágenes en línea. Photopea
 
 React Icons: Biblioteca de iconos para React. React Icons
@@ -32,7 +35,7 @@ src/
 |-- App.jsx           # Componente principal de la aplicación
 |-- main.jsx          # Punto de entrada de la aplicación
 
-Instalación
+# Instalación
 Clona el repositorio:
 
 bash
