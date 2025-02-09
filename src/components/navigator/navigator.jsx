@@ -5,6 +5,7 @@ import { LiaAngleDownSolid } from 'react-icons/lia'
 import { RiMenu2Fill } from 'react-icons/ri'
 import { Link } from 'react-router-dom'
 import DrawerPanel from '../drawer/drawer'
+import "../navigator/navigator.css"
 
 const Navigation = () => {
 
@@ -17,10 +18,10 @@ const Navigation = () => {
     return (
         <nav>
             <div className="container flex items-center justify-end gap-8">
-                <div className="col_1 w-[20%]">
-                    <Button className="text-black gap-2 w-full" onClick={openDrawerPanel} >
+                <div className="col_1 w-[20]">
+                    <Button className="!text-black gap-2 w-full" onClick={openDrawerPanel} >
                         <RiMenu2Fill className="text-[18px]" />
-                        Shop By Categories
+                        Shop By Categoriesa
                         <LiaAngleDownSolid className="text-[13px] ml-auto font-bold" />
                     </Button>
                 </div>
